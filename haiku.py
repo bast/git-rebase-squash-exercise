@@ -5,5 +5,4 @@ def get_haiku():
 
               On a branch
               floating downriver
-              floating downriver
               a cricket, singing.'''
